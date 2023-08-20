@@ -3,7 +3,7 @@
 Fork from the original firmware released by Waveshare.
 
 Working version, but not completely satisfying, some glitches. 
-
+Work in progress.
 
 - Added Italian language support (menu option: English or Italian).
 - Improved auto-brightness.
